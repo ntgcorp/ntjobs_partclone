@@ -1,5 +1,3 @@
-Here is the complete documentation translated into English and# 🛠️ Backup & Restore Utility Suite: ntjobs-partclone
-
 This suite consists of two minimal and optimized Bash scripts designed to be executed within Live Linux environments (such as GParted Live). They allow smart backup and restoration of system partitions (including Windows NTFS) by skipping unallocated free space and applying dynamic compression.
 
 Official documentation and updates: http://ntgjobs.it
